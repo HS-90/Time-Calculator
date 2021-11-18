@@ -1,3 +1,10 @@
+# Time Calculator
+
+Time Calculator project completed as part of Scientific Computing with Python Certificate completed with FreeCodeCamp
+
+----THE FOLLOWING DESCRIPTION OF PROJECT IS FROM FREECODECAMP--- For repl.it link with tests: https://replit.com/@YiSun2/boilerplate-time-calculator-Yi-Sun-Submission
+
+
 Assignment
 Write a function named add_time that takes in two required parameters and one optional parameter:
 
